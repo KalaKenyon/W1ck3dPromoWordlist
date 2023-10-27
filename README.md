@@ -21,5 +21,5 @@
 <p>This wordlist is intended for educational and research purposes only. Usage of these codes for any illegal or malicious activities is strictly prohibited. The author is not responsible for any misuse of this wordlist.</p>
 
 <h2>Contact</h2>
-<p>For any inquiries, please contact <a href="mailto:kalamkenyon@gmail.com">KalaKenyon</a>.</p>
+<p>For any inquiries, please contact Kala Kenyon at KalaMKenyon@gmail.com.</p>
 
